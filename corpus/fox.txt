@@ -1,5 +1,5 @@
-content,link,title
-,http://www.foxnews.com/world/terrorism/index.html,
+content
+""
 "Americans in Belgium were ordered “to shelter in place” Saturday after local authorities warned that the threat of a terrorist attack in the country’s capital is serious and imminent.
 The U.S. Embassy in Brussels also ordered American citizens to remain at home as the city was placed on lockdown in response to the terrorist threat. The national crisis center raised its terrorism alert Saturday to its highest level as Belgian police continued to search for a suspect in the Paris attacks that killed 130 people.
 In a statement on its website Saturday the embassy informed Americans that “if you must go out, avoid large crowds.”
@@ -17,11 +17,11 @@ The five other attackers who died had links to France and Belgium. One of the se
 French officials said Saturday they could not ascertain for certain whether Abdeslam might be in France or Belgium. His brother Brahim, blew himself up in the Paris attacks.
 The suspected ringleader, Abdelhamid Abaaoud, was killed in a raid early Wednesday on an apartment in the Paris suburb of Saint-Denis, along with Hasna Aitboulahcen, a 26-year-old woman who officials said had described herself as Abaaoud's cousin. Prosecutors said Friday that a third person was killed in the raid but did not release the identity.
 They also said Aitboulahcen had not blown herself up with a suicide vest, as it was initially believed, which suggests the body parts collected in the rubble after Wednesday’s anti-terror raid belonged to a third person who has yet to be identified.
-Marking a week since the carnage, some Parisians lit candles and paid tribute to the victims with silent reflection. Others decided that enjoying themselves was the best way to defy the extremists. They sang and danced on Place de la Republique, in the heart of a trendy neighborhood where scores of people were killed, most of them in the attack on the Bataclan concert hall.",http://www.foxnews.com/world/2015/11/21/belgium-raises-terror-alert-to-highest-level-in-brussels/,US embassy warns Americans to stay home as Belgium raises terror alert to highest level
+Marking a week since the carnage, some Parisians lit candles and paid tribute to the victims with silent reflection. Others decided that enjoying themselves was the best way to defy the extremists. They sang and danced on Place de la Republique, in the heart of a trendy neighborhood where scores of people were killed, most of them in the attack on the Bataclan concert hall."
 "A local official in northern Cameroon says at least nine people were killed and dozens injured when suspected Boko Haram militants carried out a suicide attack on a town bordering Nigeria.
 Midjiyawa Bakary, governor of Cameroon's Far North region, said the attack took place in the town of Fotokol. He couldn't provide more details but said a crisis meeting with military officials had been convened.
 Fotokol has been targeted by suicide bombers multiple times this year, most recently on Nov. 9 when a female teenage suicide bomber hit a mosque during afternoon prayers, killing at least four and wounding dozens.
-Cameroon is contributing troops to a regional force to fight Boko Haram, whose six-year insurgency has left an estimated 20,000 people dead, according to Amnesty International.",http://www.foxnews.com/world/2015/11/21/suspected-boko-haram-suicide-attack-kills-in-north-cameroon-town-official-says/,"Suspected Boko Haram suicide attack kills 9 in north Cameroon town, official says"
+Cameroon is contributing troops to a regional force to fight Boko Haram, whose six-year insurgency has left an estimated 20,000 people dead, according to Amnesty International."
 "Two high-ranking officials at the Department of Veterans Affairs were demoted Friday in response to allegations that they manipulated the agency's hiring system for their own gain.
 The VA said in a statement that Diana Rubens and Kimberly Graves were demoted from senior executives — the highest rank for career employees — to general workers within the Veterans Benefits Administration.
 Rubens was director of the Philadelphia regional office for the VBA, while Graves led the St. Paul, Minnesota, regional office.
@@ -38,15 +38,15 @@ Dale Barnett, national commander of the American Legion, said the VA's failure t
 Allison Hickey, the former head of the Veterans Benefits Administration, resigned in October amid criticism of a backlog in disability claims and questions about her role in the transfers obtained by Rubens and Graves. The IG's report said Hickey and other top VA officials may have encouraged the scheme.
 Two representatives for the VA did not immediately respond to requests for comment.
 ___
-Follow Matthew Daly: http://twitter.com/MatthewDalyWDC",http://www.foxnews.com/us/2015/11/20/2-high-ranking-va-officials-demoted-amid-allegations-manipulated-agency-hiring/,2 high-ranking VA officials demoted amid allegations they manipulated agency's hiring system
-,http://www.foxnews.com/world/index.html,
+Follow Matthew Daly: http://twitter.com/MatthewDalyWDC"
+""
 "Dobrynya, police puppy. (Russian Interior Ministry)
 A Russian puppy has big paws to fill.
 Russia has sent the puppy to France in tribute to the French police dog Diesel who was killed in an anti-terrorism raid after the Paris attacks, Sky News reported Saturday.
 Diesel’s death prompted an outpouring of grief and Russia hopes the puppy named Dobrynya fills the void.
 The Russian minister for internal affairs Vladimir Kolokoltsez wrote to his French counterpart Bernard Cazeneuve, offering the young canine as “confirmation of our solidarity with the French police in these troubled days,” according to Sky News.
 Diesel was killed when police stormed an apartment in the Paris suburb of Saint-Denis on Wednesday. ISIS terrorist Abdelhamid Abaaoud, 28, the mastermind of the Paris attacks that killed 130 and injured hundreds more was killed in the raid, officials said.
- ",http://www.foxnews.com/world/2015/11/21/russia-sends-puppy-to-france-in-tribute-to-slain-police-dog/,Russia sends puppy to France in tribute to police dog killed in anti-terror raid
+ "
 "Israeli border police search a Palestinian, next to newly placed concrete blocks in an east Jerusalem neighborhood, last month. (AP Photo/Oded Balilty)
 As the grip of terror tightens on Europe, a blueprint for existing with an unrelenting threat lies to the east, where Israelis have become accustomed to metal detectors, armed guards, spot searches and long lines.
 No nation has faced more security challenges in the face of unrelenting terrorism than Israel, and now the Jewish state's methods could light the way for Europe now that much of the continent finds itself awash in refugees and under threats from ISIS. But emulating Israel will not be cheap or convenient, and can never completely eliminate the risk of an attack -- anytime and anywhere. 
@@ -64,7 +64,7 @@ It is currently experiencing, but containing, a sustained wave of terror attacks
 Nations such as France, the United Kingdom and Germany typically spend 2 percent or less of GDP on defense, a number that could soar if Israeli-style measures are deemed necessary to guard against terror.
 ""I am not sure that Europe is ripe for it, and I am not sure they have the political determination to change,"" Inbar said. ""There is no foolproof system though, and Europeans (as well as Americans) have to learn to live with this [terror] phenomenon. Israel is not always successful in preventing terrorism. This is part of life in these times.""
 Strict security and proportionately high expenditure on defense and internal security are things Israelis earnestly wish they could live without, but painful experience has meant having to change. Many in Europe and beyond still seem reluctant to make those changes, fearing the erosion of some civil liberties -- despite the heavy loss of life in Paris last weekend -- and the prospect, according to many experts, of more terrorist attacks to come on mainland Europe.
-""I think the experience of our security services is very valuable and many do come and learn from us in terms of defending installations, including airports,"" Inbar said. ""The basic change however has to come in terms of the public atmosphere, what should be done about this, and this is something the Europeans have to do on their own.""",http://www.foxnews.com/world/2015/11/18/future-security-israeli-model-shows-high-cost-living-with-terror-threat/,Future of security: Israeli model shows high cost of living with terror threat
+""I think the experience of our security services is very valuable and many do come and learn from us in terms of defending installations, including airports,"" Inbar said. ""The basic change however has to come in terms of the public atmosphere, what should be done about this, and this is something the Europeans have to do on their own."""
 "The Israeli Government Press Office said Ezra Schwartz from Sharon, Mass., died in the attack on Thursday. 
 Schwartz, who was spending his gap year in Israel, was reportedly on his way to deliver food to Israeli soldiers when he was gunned down.
 Schwartz studied in a Jewish seminary outside Jerusalem and had come to the country on Masa, a program that brings young Jews from abroad to live in the country, according to a statement distributed by the press office.
@@ -97,7 +97,7 @@ One victim of the attack died at the scene. Another victim was evacuated and lat
 Israel's military said the Hamas militant group, on Twitter, praised the attack.
 Also on Thursday, three Palestinian women tried to infiltrate an Israeli military post in the West Bank, but were stopped and found with three knives in their possession, 
 .
-The attacks Thursday are the latest in a two month-long outburst of Israeli-Palestinian violence, stemming from tensions over a Jerusalem holy site.",http://www.foxnews.com/world/2015/11/19/at-least-5-dead-in-west-bank-and-tel-aviv-terrorist-attacks/,"At least 5 dead, including American tourist, in West Bank and Tel Aviv terrorist attacks"
+The attacks Thursday are the latest in a two month-long outburst of Israeli-Palestinian violence, stemming from tensions over a Jerusalem holy site."
 "Japan attacked the U.S. twice in the year after Pearl Harbor, pictured here.
 Japan conducted a surprise attack at Pearl Harbor, Hawaii on Dec. 7, 1941 that ultimately brought the United States into World War II.
 What most people don’t know is that Japan conducted two surprise attacks on the U.S. mainland less than a year later, with the goal of starting wildfires. Now known as the Lookout Air Raids, beginning on Sep. 9, 1942, a Japanese submarine surfaced off the coast of Oregon, assembled a seaplane, and pilot Nobuo Fujita took off toward the Oregon forests.
@@ -110,7 +110,7 @@ Three weeks later, Fujita gave it another try with two more bombs, and once agai
 In his obituary in 1997, The New York Times 
 :
 A quiet, humble man who in his later years was deeply ashamed of his air raids on the United States, Mr. Fujita eventually forged a remarkable bond of friendship with the people of Brookings, the small logging town whose surrounding forests he had bombed. Last week, as he lay dying, the town council of Brookings hailed Mr. Fujita an ”ambassador of good will” and proclaimed him an ”honorary citizen” of the town.
-His mission was unsuccessful but he was hailed as a hero back in Japan. And Fujita did earn his place in history as the pilot flying the only enemy aircraft that has ever bombed the U.S. mainland.",http://www.foxnews.com/us/2015/11/19/japan-bombed-us-mainland-during-world-war-ii-hoping-to-start-forest-fire/,Japan bombed the US mainland during World War II hoping to start a forest fire
+His mission was unsuccessful but he was hailed as a hero back in Japan. And Fujita did earn his place in history as the pilot flying the only enemy aircraft that has ever bombed the U.S. mainland."
 "Leaders of Southeast Asia will formally declare their diverse region is now an economic community that in some ways resembles the European Union, but they have a long way to go before the project becomes fully functional. The declaration will be made at a weekend summit that will also focus on the long-seething maritime rifts in the South China Sea and terrorism.
 The 10 leaders of the Association of Southeast Asian Nations, or ASEAN, will also hold talks with their counterparts from eight other countries, including President Barack Obama. A look at the key topics in the meetings:
 ASEAN COMMUNITY
@@ -133,19 +133,19 @@ Malaysian Deputy Prime Minister Zahid Hamidi this week voiced concerns that the 
 REAL THREAT
 Zahid said a leaked police circular outlined the presence of a regional terrorist network, Daulah Nusantara, that aims to take over Southeast Asia. It involves two Philippines Muslim rebel groups and the Islamic State.
 Zahid, who is also home minister, said Malaysian authorities have detected their plans earlier and taken action to prevent the group from carrying out any attacks. Police in Malaysia, Indonesia, Thailand and several other countries are working together to thwart the group, he added.
-National Police Chief Khalid Abu Bakar said in a statement late Thursday that reports of imminent terrorist threats in Malaysia have yet to be confirmed but security forces are taking all possible precautions.",http://www.foxnews.com/world/2015/11/19/formation-economic-union-sea-row-and-terrorism-top-agenda-southeast-asian/,"Formation of economic union, sea row and terrorism top agenda of Southeast Asian summit"
+National Police Chief Khalid Abu Bakar said in a statement late Thursday that reports of imminent terrorist threats in Malaysia have yet to be confirmed but security forces are taking all possible precautions."
 "Authorities in the Dutch Caribbean island of St. Maarten say they have detained three Syrians traveling with fake Greek passports.
 The public prosecutor's office said Saturday that the Syrians were detained Nov. 14 and that the investigation is continuing. Officials said the three have not asked for asylum, but they do not believe the Syrians are tied to any terrorist groups.
 Spokesman Norman Serphos told The Associated Press that the three men came on an Insel Air flight from Haiti. No further details were available.
 Officials said the Syrians had traveled from Europe then stopped in Brazil, the Dominican Republic and Haiti before entering St. Maarten. It is unclear where they were headed.
-Authorities said similar routes have been used by other Syrians arrested in neighboring countries.",http://www.foxnews.com/world/2015/11/21/official-3-syrians-with-fake-passports-detained-in-dutch-caribbean-island-st/,Official: 3 Syrians with fake passports detained in Dutch Caribbean island of St. Maarten
-,http://www.foxnews.com/category/world/world-regions,
+Authorities said similar routes have been used by other Syrians arrested in neighboring countries."
+""
 "Swedish police officials say the arrest in Arctic Sweden of a man suspected of preparing ""terrorist"" crimes took place without violence.
 National Police Commissioner Dan Eliasson says the late Thursday arrest was made in Boliden, a village in a large, snowy forest more than 600 kilometers (370 miles) north of Stockholm, by local police forces.
 Eliasson says the man, whom officials won't name citing secrecy, and others are being questioned.
 He told Sweden's public radio on Friday it was standard procedure to question other people ""to find out more information about the suspected terrorist.""
 On Wednesday, Sweden had raised its terror alert to the second-highest level.
-The case is not believed to be linked to the Paris attacks.",http://www.foxnews.com/world/2015/11/20/swedish-police-chief-terror-suspect-arrested-peacefully-in-arctic-sweden/,Swedish police chief: terror suspect arrested peacefully in Arctic Sweden
+The case is not believed to be linked to the Paris attacks."
 "The suspected mastermind of last week's Paris massacre, and some of the other attackers, had exploited the Syrian refugee crisis to slip into France unnoticed, Prime Minister Manuel Valls revealed Friday, the same day the French Senate approved extending the nation's state of emergency by three months.
 It also emerged that Abdelhamid Abaaoud may have even taken part in the attacks on the ground in Paris, as a French security official said a surveillance camera captured the alleged ringleader inside a nearby subway station as the massacre unfolded. Valls also said another person died from the attacks, bringing the total number of dead to 130.
 A third body was found after Wednesday's apartment raid north of Paris that left Abaaoud and his cousin dead, the French prosecutor's office reported Friday. A police source told Agence France-Presse the cousin, Hasna Aitboulahcen, did not blow herself up, as was previously reported. The suicide bomber was a man, the source said.
@@ -154,12 +154,12 @@ Valls said some of the Paris attackers had taken advantage of the massive influx
 ""These individuals took advantage of the refugee crisis... of the chaos, perhaps, for some of them to slip in"" to France, he told French TV. ""Others were in Belgium already. And others, I must remind you, were in France.""
 Police now turn their attention to two other suspects who are believed to have participated in the attacks. Police have identified one of them as Salah Abdeslam, who grew up in the same Belgian district as Abaaoud, the Brussels suburb of Molenbeek.
 There was no indication Abdeslam escaped to neighboring Spain or tried to do so, Spanish Interior Miniister Jorge Fernandez Diaz said. He told Antena 3 television that security officials from several countries were called together in Paris to discuss the possibility that Abdeslam might try to cross into a country bordering France.
-Spanish police say French authorities sent a bulletin to officers across Europe asking them to watch out for a Citroen Xsara car that could be carrying Abdeslam.",http://www.foxnews.com/world/2015/11/20/france-pm-says-paris-attacks-ringleader-used-migrant-crisis-to-get-into-country/,"Paris massacre ringleader used migrant crisis to get into France, PM says"
+Spanish police say French authorities sent a bulletin to officers across Europe asking them to watch out for a Citroen Xsara car that could be carrying Abdeslam."
 "Iraqi security officials say a suicide blast and a roadside bomb have targeted a Shite mosque in a southern Baghdad neighborhood, killing 10 people.
 Police officials say the attack happened in the Nahiyet al-Rasheed neighborhood where a roadside bomb went off first on the street outside the mosque, just as worshippers were finishing Friday prayers. Within minutes, a suicide bomber inside the mosque detonated an explosives vest.
 The officials say 28 people were also wounded in the attack. Two police officers are among the dead and four have been wounded. The officials spoke on condition of anonymity because they are not authorized to talk to the media.
 No one immediately claimed responsibility for the attack.
-Baghdad sees near daily attacks, many claimed by the Sunni militant Islamic State group.",http://www.foxnews.com/world/2015/11/20/iraqi-officials-suicide-blast-roadside-bomb-target-shiite-mosque-in-baghdad/,"Iraqi officials: Suicide blast, roadside bomb target Shiite mosque in Baghdad, killing 10"
+Baghdad sees near daily attacks, many claimed by the Sunni militant Islamic State group."
 "Two Islamic State-claimed attacks on Friday in Yemen's largest province killed at least 15 people and wounded 30, security officials said, in the latest sign the extremists are taking advantage of the country's civil war to expand their reach.
 Meanwhile, a lawyer representing an American held in Yemen since 2010 on suspicion of being linked to Al Qaeda militants said his client wasn't among three U.S. citizens recently freed and evacuated from the country.
 Friday's synchronized attacks targeted checkpoints manned by security forces loyal to Yemen's internationally recognized government in the cities of Shibam and al-Qatn, both in Hadramawt province, officials said.
@@ -172,7 +172,7 @@ Houthis and others have taken foreigners hostage in the chaos of the war. On Thu
 The U.S. Embassy in Muscat has not identified those freed. However, they did not include Sharif Mobley, a U.S. citizen held in Yemen since 2010 on suspicion of being part of Al Qaeda, said Cori Crider, an American lawyer representing him.
 Mobley, who grew up in New Jersey, faces a death sentence on charges he killed a hospital guard while trying to escape government custody. He was apparently seized by the Houthis when they took Sanaa in September 2014.
 Crider, who works with the United Kingdom-based advocacy group Reprieve, said in a statement that the U.S. State Department has yet to offer any new information to Mobley's family.
-""Why is State refusing to help his distressed relatives?"" she asked. ""As his lawyer, I am dumbfounded at this wall of silence, and can only assume that the U.S. is embarrassed at its own role in his terrible ordeal.""",http://www.foxnews.com/world/2015/11/20/isis-claims-2-attacks-in-yemen-killing-at-least-15/,ISIS claims 2 attacks in Yemen killing at least 15
+""Why is State refusing to help his distressed relatives?"" she asked. ""As his lawyer, I am dumbfounded at this wall of silence, and can only assume that the U.S. is embarrassed at its own role in his terrible ordeal."""
 "Riding the Paris Metro to the city's Grand Mosque for prayers, Samia Mahfoudia says people shoot sideways looks at her ""almost as if they were saying 'Get off.'""
 Ahmed El Mziouzi, a Moroccan who has called France home for 42 years, says he's seen people staring at Muslims like him ""a bit bizarrely"" since attackers claiming to be acting in the name of Islam massacred 130 people, traumatizing the city.
 These are tough times for France's Muslims. Muslims were among both the dead and the hundreds of wounded in the Paris attacks. Muslims across Paris and the world also reacted with shock, horror and anger at the indiscriminate slaughter. In the French capital, Muslims have visited the makeshift shrines of flowers and candles outside the Bataclan concert hall and the cafes where the attackers mowed down victims in cold blood.
@@ -191,7 +191,7 @@ Muslim reaction to the latest massacre has been more clear-cut than after the Ja
 The mathematics graduate who is now looking for work said he, too, has felt a frostier reception in the city he grew up in.
 ""Looks now are cold and wary. ... I can understand their paranoia a bit,"" he said.
 But this time, Muslim opposition to the bloodshed appears more universal. The January gunmen specifically targeted journalists and Jews. The latest killers didn't care who they mowed down or what their victims believed. That made them terrifying for everyone.
-""It is different, because this time there wasn't a gram of reason to it,"" said Benamou. ""They killed everything without knowing who their victims were. Just anybody. Just like that, wantonly, with no reason. So of course we're against that, 100 percent against, even 200 percent.""",http://www.foxnews.com/world/2015/11/20/paris-muslims-face-hostility-after-attacks-but-also-throw-their-weight-against/,Paris Muslims face hostility after attacks but also throw their weight against terror
+""It is different, because this time there wasn't a gram of reason to it,"" said Benamou. ""They killed everything without knowing who their victims were. Just anybody. Just like that, wantonly, with no reason. So of course we're against that, 100 percent against, even 200 percent."""
 "France called Friday on its European Union partners to take immediate and decisive action to toughen the bloc's borders and prevent the entry of more violent extremists.
 ""We can't take more time. This is urgent,"" Interior Minister Bernard Cazeneuve said.
 One week after the coordinated attacks claimed by Islamic State that killed 129 people in Paris, Cazeneuve and the other EU interior and justice ministers opened an emergency meeting on the next steps to take to prevent more bloodshed. France and Belgium were expected to urge their EU partners to tighten gun laws, toughen border security and choke off funds to extremist groups.
@@ -219,7 +219,7 @@ Most demonstrations have been banned in the city since the attacks, but Parisian
 A demonstration planned Friday at France's oldest mosque to show inter-community solidarity after the attacks was canceled for security concerns.
 Next week Hollande is going to Washington and Moscow to push for a stronger international coalition against IS. French military spokesman Col. Gilles Jaron said Thursday that French forces have destroyed 35 Islamic State targets in Syria since the attacks on Paris.
 __
-Corbet reported from Paris. Thomas Adamson, Samuel Petrequin, Angela Charlton, Lori Hinnant, and Jamey Keaten in Paris; John-Thor Dahlburg in Brussels and Bassem Mroue also contributed.",http://www.foxnews.com/world/2015/11/20/france-seeks-european-partners-aid-to-stanch-inflow-extremists/,France seeks European partners' aid to stanch inflow of extremists
+Corbet reported from Paris. Thomas Adamson, Samuel Petrequin, Angela Charlton, Lori Hinnant, and Jamey Keaten in Paris; John-Thor Dahlburg in Brussels and Bassem Mroue also contributed."
 "The American who died in the attack at a Mali luxury hotel was identified late Friday as Anita Ashok Datar, the State Department said in a statement.
 Datar, 41, was born in western Massachusetts and grew up in northern New Jersey. She graduated from Columbia University’s Joseph Mailman School of Public Health and School of International and Public Affairs with an MPH and MPA and served two years in the Peace Corps in Senegal.
 She was also a founding member of Tulalens, a not-for-profit organization connecting underserved communities with quality health services, according to the State Department. Datar was described by her family as the most helpful person they knew.
@@ -250,7 +250,7 @@ The Mali presidency said on Twitter that Keita will be back to Bamako ""in the n
 Meanwhile, France's national gendarme service says about 50 elite police troops were en route from Paris to Bamako.
 A spokesman for the service who was not authorized to be publicly named said they are heading Friday from two different units of special police forces trained for emergency situations.
 Even after the French-led military intervention in early 2013 that drove extremists from northern towns and cities in Mali, the northern part of the country remains insecure and militant attacks have extended farther south this year, including the capital. In March, masked gunmen shot up a restaurant in Bamako that is popular with foreigners, killing five people.
-About 1,000 French troops remain in the country. The Netherlands also has troops working with the UN mission in Mali. According to the Dutch defense ministry, some 450 Dutch military personnel are taking part in the mission along with four Apache and three Chinook helicopters. Most of the Dutch force is based in Gao, but there are a few officers at the U.N. mission headquarters in Bamako.",http://www.foxnews.com/world/2015/11/21/american-victim-in-mali-hotel-attack-identified/,American victim in Mali hotel attack identified
+About 1,000 French troops remain in the country. The Netherlands also has troops working with the UN mission in Mali. According to the Dutch defense ministry, some 450 Dutch military personnel are taking part in the mission along with four Apache and three Chinook helicopters. Most of the Dutch force is based in Gao, but there are a few officers at the U.N. mission headquarters in Bamako."
 "Malaysia's leader on Saturday denounced the Islamic State as an ""evil"" terrorist group, saying his Muslim-majority country is ready to join others to defeat it. But he cautioned that a military solution alone was not enough, and what needs to be vanquished is the ideology.
 President Barak Obama, who is also in Malaysia, spoke in the same vein, saying the world is determined ""to push back on the hateful ideologies that fuel this terrorism.""
 ""We will not allow these killers to have a safe haven,"" Obama said at a business conference on the sidelines of a summit of Southeast Asian leaders that Malaysian Prime Minister Najib Razak addressed earlier. The two leaders will attend a larger summit of 18 Asia-Pacific countries on Sunday.
@@ -275,7 +275,7 @@ The AEC was envisaged to face competition from China and India for market share 
 ASEAN's relationship with China is highly complex and ambivalent. Despite being a competitor, China has also played the role of a principal financier in helping ASEAN reach its goals to temper its image as an economic threat.
 At the same time, it has not hesitated to bully ASEAN countries in staking its claim to most of the South China Sea, where the Philippines, Malaysia, Vietnam, Indonesia and Brunei have competing claims. Diplomatic squabbles have frequently erupted over oil and gas exploration and fishing rights in the area. China has also irked ASEAN countries by creating artificial islands from reefs to bolster its claim.
 ___
-Associated Press writers Josh Lederman in Kuala Lumpur, Malaysia, and Annabelle Liang in Singapore contributed to this report.",http://www.foxnews.com/world/2015/11/20/muslim-majority-malaysia-blasts-is-as-evil-terrorists-calls-for-defeating-its/,"Muslim-majority Malaysia blasts IS as evil terrorists, calls for defeating its ideology"
+Associated Press writers Josh Lederman in Kuala Lumpur, Malaysia, and Annabelle Liang in Singapore contributed to this report."
 "It was like the end of the world, Anayatullah Nazari said. ""It was like they were determined to kill us all and that nobody would survive. It was like doomsday, nothing I could ever imagine.""
 More than six weeks after a U.S. Air Force AC-130 gunship repeatedly struck a well-marked Doctors Without Borders hospital, killing 30 people in the northern Afghan city of Kunduz, official U.S., NATO and Afghan government reviews have yet to be released.
 But a dozen survivors interviewed by The Associated Press are convinced that the assault on the hospital — which treated wounded Taliban and government fighters alike — was no accident. They say it was sustained and focused on destroying the main hospital building, which the aid agency says ""correlates exactly"" with GPS coordinates it had given to all parties in the conflict.
@@ -305,7 +305,7 @@ A hospital security guard who also asked not to be named, for the sake of his ow
 ""The rest were all dead. Doctors and patients were just burned. And while we were taking stock of the injured, four doctors died in the meeting room. A couple of the foreign doctors jumped out of the windows to escape the attack — it's a miracle they survived,"" the guard said.
 Anayatullah Hamdard, an agriculture professor at Kunduz University, recovered the body of his father, Dr. Abdul Sattar. ""He was completely burned. I couldn't even see his face,"" Hamdard said.
 ___
-Associated Press Writer Ken Dilanian in Washington contributed to this report.",http://www.foxnews.com/world/2015/11/21/survivors-attack-on-afghanistan-hospital-tell-stories-terror-confusion/,"Survivors of attack on Afghanistan hospital tell stories of terror, confusion"
+Associated Press Writer Ken Dilanian in Washington contributed to this report."
 "The family homes of the suspected mastermind of the Paris attacks and one of the suicide bombers stand only a few blocks apart in the Belgian capital's Molenbeek neighborhood. After a string of attacks in recent years linked to its grimy streets in central Brussels, a key question arises: Why Belgium?
 The tiny nation renowned for beer, chocolates and the comic book hero Tintin is now suddenly infamous for Islamic extremism — and the easy availability of illegal weapons.
 Belgium has a central location in Europe; few border controls; a common language with prime jihadist target France; and a political divide between French and Dutch speakers that has long created bureaucratic disarray in justice and security.
@@ -326,7 +326,7 @@ Prime Minister Michel has promised to crack down on radical mosque financing and
 Many of the weaknesses have been linked to Belgium's complicated linguistic divide. Belgium's 6.5 million Dutch speakers in northern Flanders and the 4.5 million Francophones in southern Wallonia enjoy considerable political autonomy — seen as a way to help keep the country together. However, political appeasement between the groups has often trumped efficiency in decision-making.
 ""It's a nightmare,"" Bakker said of the language barriers within law-and-order institutions.
 ___
-Lorne Cook contributed to this article",http://www.foxnews.com/world/2015/11/21/paris-attacks-firmly-rooted-in-brussels-raising-question-why-belgium-again/,"Paris attacks firmly rooted in Brussels, raising question: Why Belgium, again?"
+Lorne Cook contributed to this article"
 "Ten Southeast Asian heads of state and nine world leaders, including President Barack Obama, are meeting in Malaysia to discuss trade and economic issues. Terrorism and disputes over the South China Sea are also on the agenda. (All times local.)
 5 p.m.
 Indian Prime Minister Narendra Modi says ""winds of change"" are blowing through India's economy, after further market liberalization to turn the country into a global manufacturing hub.
@@ -392,7 +392,7 @@ Heads of state from 10 members of the Association of Southeast Asian Nations hav
 The main event is the launch of a unified economic community that has been eight years in the making.
 On Sunday, the leaders of Malaysia, Indonesia, Singapore, Brunei, Thailand and the Philippines, along with ASEAN's four less developed members, Communist Vietnam and Laos, Myanmar and Cambodia, will sign a declaration establishing the ASEAN Economic Community, originally envisioned in 2002.
 Although ASEAN has helped greatly increase the region's economic and political integration, there is a long way to go before the AEC becomes fully functional after becoming a legal entity on Dec. 31.
-ASEAN countries have torn down tariff barriers and have removed some visa restrictions, but they fall short in more politically sensitive areas such as opening up agriculture, steel, auto production and other protected sectors.",http://www.foxnews.com/world/2015/11/21/latest-indian-prime-minister-modi-says-winds-change-blowing-through-india/,The Latest: Indian Prime Minister Modi says 'winds of change' blowing through India's economy
+ASEAN countries have torn down tariff barriers and have removed some visa restrictions, but they fall short in more politically sensitive areas such as opening up agriculture, steel, auto production and other protected sectors."
 "French police and prosecutors, friends and families, and journalists have unveiled details about the men accused of carrying out the attacks in Paris. Altogether, authorities say that three teams participated in the bloody assault. At least one suspected participant remains at large.
 Here's what's known about the suspects:
 SUSPECTED MASTERMIND
@@ -453,4 +453,4 @@ Hours after he was linked to the attacks, Abdeslam and two travelers were stoppe
 Two men arrested in Belgium admitted driving to France to pick up Salah Abdeslam the morning after the attacks: Mohammed Amri, 27, and Hamza Attou, 21, are being held on charges of terrorist murder and conspiracy.
 Salah's other brother, Mohamed Abdeslam, said all three siblings grew up in Belgium and seemingly were content with life in the West. ""We are an open-minded family. We never had any problem with justice,"" he said.
 ___
-Associated Press writers across Europe and in the United States contributed to this report.",http://www.foxnews.com/world/2015/11/21/who-were-paris-attackers-many-had-links-to-syria-crossed-officials-radars/,"Who were the Paris attackers? Many had links to Syria, crossed officials' radars"
+Associated Press writers across Europe and in the United States contributed to this report."

@@ -1,1 +1,1 @@
-pip install scrapy csvkit
+pip install scrapy csvkit nltk

@@ -1,4 +1,4 @@
-content,link,title
+content
 " U.S. President Barack Obama visited a refugee centre in Malaysia on Saturday to highlight his call for more compassion at home to deal with a global migrant crisis, as Republicans seek to block U.S. acceptance of Syrian refugees.
 Speaking of the children he met at the Dignity for Children Foundation in Kuala Lumpur, Obama said ""that's the face of not only children from Myanmar, that's the face of Syrian children and Iraqi children"". 
 Many of the children at the centre were Muslim Rohingyas who have fled persecution in Myanmar. 
@@ -19,7 +19,7 @@ The United Nations estimates that over 120,000 Rohingya have fled in the past th
 In May, mass graves were exhumed at jungle camps on the border between Thailand and Malaysia that were thought to be mainly Rohingya victims of human traffickers.
 Myanmar’s former junta and the quasi-civilian government that replaced it say the Rohingya are considered illegal migrants from Bangladesh -  even those that have been in the country for generations.
       
- (Reporting by Matt Spetalnick. Editing by Bill Tarrant)",http://www.reuters.com/article/2015/11/21/us-obama-refugees-idUSKCN0TA09Q20151121,Obama visits refugees in Malaysia to highlight global crisis
+ (Reporting by Matt Spetalnick. Editing by Bill Tarrant)"
 " A heavy fall snowstorm hit the Midwestern United States on Saturday, blanketing states from South Dakota to Wisconsin with as much as 16 inches (40 cm) of snow, slowing air travel and delaying some events for U.S. presidential candidates.
 The storm was forecast to travel east into the Great Lakes region, reaching Michigan and upstate New York according to the National Weather Service. It forecast widespread accumulations of 4 to 8 inches (10-20 cm) of snow.
 Forecasters warned that trees that had not already dropped their leaves could be damaged by the heavy, wet snow.
@@ -37,7 +37,7 @@ The Illinois and Michigan Departments of Transportation warned that snow and ice
  (Reporting by Nikkita Foston in Chicago and 
  in Des Moines, Iowa; Writing by 
 ; Editing by Digby Lidstone and 
-)",http://www.reuters.com/article/2015/11/21/us-usa-weather-idUSKCN0TA0Q920151121,"Early season snowstorm coats Midwestern U.S., affects travel"
+)"
 "The decision was taken despite mounting calls to cooperate more closely with Russian President Vladimir Putin in the fight against Islamic State following the militant group's Nov. 13 attacks in Paris which killed 130 people.
 U.S. President Barack Obama, Germany's Angela Merkel, Britain's David Cameron, Italy's Matteo Renzi and French Foreign Minister Laurent Fabius, who represented President Francois Hollande at the summit, attended the brief meeting near the conclusion of the G20 meeting in Antalya.
 The sanctions are due to expire in January, before full implementation of the so-called Minsk peace deal, which aims to resolve the standoff between Kiev and pro-Russian separatists in eastern Ukraine.
@@ -48,7 +48,7 @@ In particular, the diplomat said, the leaders had concluded that it was importan
 Following the attacks, Hollande has called for a grand coalition of nations to fight Islamic State, which controls large swathes of Syria and Iraq. The French president is due to travel to Moscow on Nov. 26 to discuss closer cooperation with Putin.
 German Chancellor Angela Merkel will dine with Hollande in Paris the evening before his trip and, according to German officials, will urge him to remain firm on the sanctions question while in Moscow.
  (Editing by 
-)",http://www.reuters.com/article/2015/11/21/us-eu-russia-sanctions-idUSKCN0TA0XH20151121,Western leaders agreed to extend Russia sanctions by six months: diplomat
+)"
 " Honduran police arrested a Syrian woman and two Pakistani men on Saturday after determining they were traveling illegally and presumably en route to the United States, authorities said.
 The woman had a photocopy of a Syrian passport and the two men described themselves as Pakistani but did not carry passports, police commissioner Leonel Sauceda clarified to Reuters. None entered through an official border crossing, Sauceda said earlier.
 ""They entered at a blind spot,"" he said.
@@ -62,7 +62,7 @@ Honduran police said there were no signs of any links to the Nov. 13 suicide bom
 The five were part of a wider group of seven Syrian nationals who acquired forged passports in Brazil and then went by land to Argentina on their way north, a U.S. government source familiar with the case said. The source also said there was no evidence to suggest the men were militants.
 (This version of the story has been officially corrected to show that the police corrected the passport status of detained people in the second paragraph.)
  (Reporting by Gustavo Palencia; Writing by David Alire Garcia; Editing by Alan Crosby and 
-)",http://www.reuters.com/article/2015/11/21/us-hondruas-arrest-migrants-idUSKCN0TA0SZ20151121,"Honduras detains Syrian, Pakistanis traveling illegally: police"
+)"
 " Bangladesh executed two opposition leaders on Sunday for war crimes committed during the 1971 war to break away from Pakistan, a senior police official said, in a move likely to draw an angry reaction from supporters.
 ""Both of them were hanged simultaneously on two separate platforms,"" the police official said.
 Islamist opposition leader Ali Ahsan Mohammad Mujahid and Salauddin Quader Chowdhury, former legislator from former premier Khaleda Zia's Bangladesh Nationalist Party (BNP), were hanged shortly after President Abdul Hamid rejected their appeals late on Saturday for clemency. 
@@ -80,7 +80,7 @@ Moqbul Ahmed, acting Amir of Jamaat, said in a statement that Mujahid was a vict
 The government denies accusations of interference in the judiciary.
 East Pakistan broke away to become independent Bangladesh after a war between India and Pakistan. About three million people were killed.
  (Reporting by Serajul Quadir; editing by 
-)",http://www.reuters.com/article/2015/11/21/us-bangladesh-execution-idUSKCN0TA0UO20151121,Bangladesh executes two opposition leaders for 1971 war crimes
+)"
 " There is a ""strong case"" for raising interest rates when Federal Reserve policymakers meet next month, as long as U.S. economic data does not disappoint, a top Fed official said on Saturday. 
 ""The data I think have been overall encouraging, especially on the labor market,"" San Francisco Fed President John Williams told reporters after a conference at University of California Berkeley's Clausen Center. 
 ""Assuming that we continue to get good data on the economy, continue to get signs that we are moving closer to achieving our goals and gaining confidence getting back to 2-percent inflation... If that continues to happen there's a strong case to be made in December to raise rates."" 
@@ -89,7 +89,7 @@ Williams sought on Saturday to make clear that rate hikes would not only be grad
 ""I do think the slope is the most important thing to communicate, the pace of increases,"" he said, adding that the Fed's quarterly economic forecasts will be critical in that regard, along with public comments from Fed officials and possible changes to the Fed's post-meeting statement. 
 ""We definitely do not want to, either through our actions or our words, indicate a preference for a very mechanical path of interest rates, whether it’s every other meeting or however you think about it,"" Williams said. ""Since economic data can surprise on the upside and the downside, maybe there will be opportunities to show we are data dependent."" 
  (Reporting by Ann Saphir; Editing by 
- and Alan Crosby)",http://www.reuters.com/article/2015/11/21/us-usa-fed-williams-rates-idUSKCN0TA0WZ20151121,Fed's Williams sees strong case for December interest-rate hike
+ and Alan Crosby)"
 " Russian President Vladimir Putin said on Saturday he wanted global cooperation to combat terrorism after Islamist militants killed 19 people, including six Russians, in an attack on a luxury hotel in Mali 
 Friday's assault came a week after militants killed 130 people in gun and bomb attacks in Paris claimed by Islamic State, and three weeks after a Russian airliner was downed over Egypt by what Moscow and Western governments say was a bomb, killing all 224 people aboard.
 The bloodshed at the Radisson Blu hotel in Mali, a former French colony, evoked the problems French troops and U.N. peacekeepers face in restoring security and order in a West African state that has battled rebels and militants in its weakly-governed desert north for years.
@@ -124,7 +124,7 @@ Belmokhtar is blamed for an assault on an Algerian gas field in 2013 and linked 
  (Additional reporting by 
  in Bamako, 
  in Paris, 
- in Moscow and Michael Martina in Beijing; Writing by Matthew Mpoke Bigg; Editing by Ruth Pitchford)",http://www.reuters.com/article/2015/11/21/us-mali-attacks-idUSKCN0T90SK20151121,Putin says seeks global anti-terrorism fight after 19 killed in Mali attack
+ in Moscow and Michael Martina in Beijing; Writing by Matthew Mpoke Bigg; Editing by Ruth Pitchford)"
 " The Vatican on Saturday ordered five people, including two Italian journalists, to stand trial for leaking and publishing secret documents, in the latest development in a leaks scandal which is rocking the papacy.
 The trial stems from the publication of two recent books which depict a Vatican plagued by mismanagement, greed and corruption and where Pope Francis faces stiff resistance from the old guard to his reform agenda. 
 The Holy See was embarrassed and angered by the books, which it said used information that should never have been allowed to leave the walls of the city state.
@@ -139,7 +139,7 @@ The Vatican has said the books give a ""partial and tendentious"" version of eve
 Nuzzi told Reuters on Saturday he had ""never applied pressure on anyone"" and would discuss with his lawyers whether or not to attend Tuesday's hearing. He said his lawyers had told him he risked 4-8 years' imprisonment.
 ""The Italian constitution guarantees the right to information and expression but the Vatican is a state with no right to information,"" he said.
 ""If they think they can silence me they are following the wrong path, because after me other reporters will tell the facts and the information will not stop."" 
- (Reporting By Gavin Jones; Editing by Digby Lidstone)",http://www.reuters.com/article/2015/11/21/us-vatican-leaks-idUSKCN0TA0MP20151121,"Vatican to try five, including reporters, over leaks scandal"
+ (Reporting By Gavin Jones; Editing by Digby Lidstone)"
 " French police have released seven of the eight people rounded up when they raided a flat last Wednesday where the suspected mastermind of the Paris attacks was hiding, a judicial source said.
 Islamic State jihadist Abdelhamid Abaaoud, 28, one of the group's most high-profile European recruits, died during the police assault along with a woman believed to be his cousin and a third person yet to be identified.
 During the raid, police took in eight people for questioning, five from inside the building in the northern St. Denis suburb and three from outside, including a man who said he was in charge of the property and is still being held.
@@ -162,7 +162,7 @@ A ban on demonstrations in the Paris region under the state of emergency was als
 An opinion poll on Saturday showed that President Francois Hollande, the most unpopular French leader since the start of the Fifth Republic in 1958, got an eight-point popularity boost after the attacks.
 Thirty-three percent of those polled said they had a favorable opinion of Hollande, his highest rating since Jan. 14, a week after attacks on a satirical magazine and a kosher supermarket cost 17 lives.    
  (Additional reporting by Chine Labbe and Nicolas Bertin; writing by 
-; editing by Digby Lidstone)",http://www.reuters.com/article/2015/11/21/us-france-shooting-idUSKCN0TA0T520151121,French police release seven people picked up during raid last week
+; editing by Digby Lidstone)"
 " Belgium put the capital Brussels on maximum security alert on Saturday, shutting the metro and warning people to avoid crowds because of a ""serious and imminent"" threat of coordinated, multiple attacks by militants.
 A week after
 Paris bombings and shootings carried out by Islamic State militants, of whom one suspect from Brussels is at large, Brussels was placed on the top level ""four"" in the government's threat scale after a meeting of police, justice and intelligence officials.
@@ -200,4 +200,4 @@ A ban on demonstrations in the Paris area was extended on Saturday until Nov. 30
  (Additional reporting by 
 , Gabriela Baczynska in Brussels, Chine Labbe, Nicolas Bertin in France, 
 , Ece Toksabay in Turkey; editing by 
-)",http://www.reuters.com/article/2015/11/21/us-france-shooting-belgium-idUSKCN0TA03H20151121,Brussels put on maximum alert on risk of Paris-like attack
+)"

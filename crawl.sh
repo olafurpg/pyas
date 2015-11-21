@@ -5,5 +5,6 @@ for spider in ${spiders[@]}; do
   # Scrapy appends results.
   echo Running spider $spider
   rm -f ${spider}.csv || true
-  scrapy crawl $spider -o ${spider}.csv -t csv 2>> log.txt
+  scrapy crawl $spider -o ${spider}.csv -t csv
+  csvcut -c content ${spider}.csv > corpus/${spider}.txt
 done
