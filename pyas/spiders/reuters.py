@@ -3,7 +3,10 @@ import scrapy
 
 class MySpider(scrapy.Spider):
     name = "reuters"
-    start_urls = ['http://www.reuters.com/news/archive']
+    # start_urls = ['http://www.reuters.com/news/archive']
+    start_urls = [
+        "http://www.reuters.com/news/archive/worldNews?view=page&page=%s&pageSize=22" % i for i in range(1, 5)
+    ]
 
     def parse(self, response):
         for href in response.css(

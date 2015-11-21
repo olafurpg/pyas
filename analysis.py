@@ -9,6 +9,7 @@ def analyze(path):
     tokens = nltk.word_tokenize(txt)
     tagged = nltk.pos_tag(tokens)
     counts = collections.defaultdict(int)
+    counts["tokens"] = len(tokens)
     for word, tag in tagged:
         # print word, tag
         # counts[tag] += 1
